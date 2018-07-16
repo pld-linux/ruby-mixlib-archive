@@ -20,7 +20,6 @@ BuildRequires:	ruby-rake >= 12
 BuildRequires:	ruby-rspec < 4
 BuildRequires:	ruby-rspec >= 3.0
 %endif
-Requires:	ruby-mixlib-log
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
