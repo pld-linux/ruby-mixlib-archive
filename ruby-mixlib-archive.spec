@@ -6,7 +6,7 @@
 Summary:	A simple interface to various archive formats
 Name:		ruby-%{pkgname}
 Version:	0.4.8
-Release:	1
+Release:	2
 License:	APACHE-2.0
 Group:		Development/Languages
 Source0:	https://rubygems.org/downloads/%{pkgname}-%{version}.gem
